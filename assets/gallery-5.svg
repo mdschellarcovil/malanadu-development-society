@@ -1,0 +1,9 @@
+<svg width="640" height="480" viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="galleryTitle5 galleryDesc5">
+  <title id="galleryTitle5">Spice harvest placeholder</title>
+  <desc id="galleryDesc5">Placeholder image for spice harvest gallery item.</desc>
+  <rect width="640" height="480" fill="#f3faf4" rx="32" />
+  <circle cx="180" cy="170" r="68" fill="#d8ecce" />
+  <circle cx="460" cy="180" r="52" fill="#cadfc4" />
+  <rect x="120" y="280" width="400" height="120" rx="24" fill="#fff" stroke="#b6d8b6" stroke-width="12" />
+  <path d="M160 330 C 220 300 280 320 340 290 C 400 260 460 300 520 280" stroke="#5f8b5d" stroke-width="14" fill="none" stroke-linecap="round" />
+</svg>

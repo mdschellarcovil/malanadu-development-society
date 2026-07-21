@@ -1,0 +1,9 @@
+<svg width="640" height="480" viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="galleryTitle2 galleryDesc2">
+  <title id="galleryTitle2">Milk collection placeholder</title>
+  <desc id="galleryDesc2">Placeholder image representing milk collection and farm products.</desc>
+  <rect width="640" height="480" fill="#f1faf1" rx="32" />
+  <circle cx="360" cy="170" r="70" fill="#c2e6c0" />
+  <rect x="220" y="240" width="200" height="140" rx="28" fill="#ffffff" stroke="#95ba93" stroke-width="8" />
+  <path d="M280 280 C 300 250 350 250 370 280" stroke="#6c8e67" stroke-width="12" fill="none" stroke-linecap="round" />
+  <path d="M260 360 L380 360" stroke="#6c8e67" stroke-width="12" stroke-linecap="round" />
+</svg>

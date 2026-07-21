@@ -1,0 +1,9 @@
+<svg width="640" height="480" viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="galleryTitle4 galleryDesc4">
+  <title id="galleryTitle4">Community placeholder</title>
+  <desc id="galleryDesc4">Placeholder image for local community gallery scene.</desc>
+  <rect width="640" height="480" fill="#f0f8f0" rx="32" />
+  <path d="M120 380 C 200 340 340 370 460 330 C 520 310 620 360 640 340 L640 480 L0 480 Z" fill="#cfe8cd" />
+  <circle cx="180" cy="220" r="52" fill="#e8f4e6" />
+  <circle cx="420" cy="180" r="74" fill="#98bd96" />
+  <path d="M160 280 C 210 250 260 260 320 230 C 360 210 430 220 480 210" stroke="#4c7a4d" stroke-width="20" fill="none" stroke-linecap="round" />
+</svg>

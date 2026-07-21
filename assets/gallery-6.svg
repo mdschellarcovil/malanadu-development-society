@@ -1,0 +1,10 @@
+<svg width="640" height="480" viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="galleryTitle6 galleryDesc6">
+  <title id="galleryTitle6">Dairy product placeholder</title>
+  <desc id="galleryDesc6">Placeholder image for dairy product gallery representation.</desc>
+  <rect width="640" height="480" fill="#e8f4e5" rx="32" />
+  <rect x="130" y="240" width="150" height="150" rx="28" fill="#fff" stroke="#95b992" stroke-width="10" />
+  <rect x="230" y="240" width="150" height="150" rx="28" fill="#ffffff" stroke="#95b992" stroke-width="10" />
+  <rect x="330" y="240" width="150" height="150" rx="28" fill="#ffffff" stroke="#95b992" stroke-width="10" />
+  <path d="M320 120 C 340 90 420 90 440 120" stroke="#4e7b4f" stroke-width="18" fill="none" stroke-linecap="round" />
+  <path d="M180 190 C 220 170 280 170 320 190" stroke="#4e7b4f" stroke-width="14" fill="none" stroke-linecap="round" />
+</svg>

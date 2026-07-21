@@ -1,0 +1,8 @@
+<svg width="640" height="480" viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="galleryTitle1 galleryDesc1">
+  <title id="galleryTitle1">Gallery image placeholder</title>
+  <desc id="galleryDesc1">Placeholder for farm landscape gallery image.</desc>
+  <rect width="640" height="480" fill="#e9f5e9" rx="32" />
+  <path d="M0 320 C 140 260 260 360 420 300 C 520 260 620 320 640 280 L640 480 L0 480 Z" fill="#a8d9a1" />
+  <circle cx="520" cy="170" r="60" fill="#fff" opacity="0.8" />
+  <path d="M110 230 C 120 140 210 120 270 190 C 330 260 380 210 430 230" stroke="#6d9d65" stroke-width="24" fill="none" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,26 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Dairy farm landscape illustration</title>
+  <desc id="heroDesc">A stylized green pasture and dairy farm illustration for the website hero.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#acd5a6" />
+      <stop offset="100%" stop-color="#d9edda" />
+    </linearGradient>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#3a7f3a" />
+      <stop offset="100%" stop-color="#83b77f" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)" />
+  <path d="M0 520 C 220 420 380 620 600 520 C 860 420 1040 620 1200 520 L1200 800 L0 800 Z" fill="url(#field)" />
+  <rect x="680" y="310" width="220" height="140" rx="20" fill="#eaf6e8" />
+  <path d="M760 310 L820 230 L900 310 Z" fill="#c6e6c5" />
+  <rect x="710" y="380" width="45" height="70" fill="#3c6e36" />
+  <rect x="790" y="380" width="45" height="70" fill="#3c6e36" />
+  <circle cx="840" cy="450" r="45" fill="#f0fbf0" />
+  <circle cx="940" cy="470" r="60" fill="#fff" opacity="0.7" />
+  <circle cx="210" cy="560" r="40" fill="#d7e9d4" />
+  <circle cx="320" cy="610" r="55" fill="#e7f1e7" />
+  <circle cx="420" cy="540" r="35" fill="#d3e8d4" />
+  <path d="M150 430 C 210 380 320 430 370 400 C 410 380 490 410 560 380" stroke="#fff" stroke-width="20" fill="none" opacity="0.45" />
+</svg>
